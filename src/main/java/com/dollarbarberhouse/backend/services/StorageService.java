@@ -143,6 +143,5 @@ public class StorageService {
             e.printStackTrace();
             return null;
         }
-        return null;
     }
 }
